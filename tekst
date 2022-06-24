@@ -1,0 +1,24 @@
+{
+        "anytime" : [
+
+                "Hallo, ik ben El, Spieg El"
+
+        ],
+        "morning" : [
+
+                "Bereid je voor op een leuke dag!"
+        ],
+        "afternoon" : [
+                "Nog even je werk afmaken...",
+                "Middag, niet de avond, niet de ochtend",
+                "Is dit niet een leuke dag?",
+                "Bijna etenstijd!"
+        ],
+        "evening" : [
+                "En nu op naar de vergadering.",
+                "Eet smakelijk!",
+                "Even rust, heerlijk....",
+                "Jij hebt het verschil gemaakt!",
+                "Was het eten lekker?"
+        ]
+}
